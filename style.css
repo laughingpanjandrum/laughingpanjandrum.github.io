@@ -1,0 +1,9 @@
+body { background-color: black; color: grey; font-family: cambria; }
+h1 { color: lightGrey; font-family: cambria; text-align: center; }
+h2 { color: lightGrey; font-family: cambria; text-align: center; }
+h3 { color: lightGrey; font-family: cambria; }
+b { color: darkGrey; }
+
+div { margin: 2%; }
+.column { float: left; width: 46%; }
+.row { display: table; }
