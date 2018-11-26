@@ -1,8 +1,17 @@
+
 body { background-color: black; color: grey; font-family: cambria; }
+
 h1 { color: lightGrey; font-family: cambria; text-align: center; }
 h2 { color: lightGrey; font-family: cambria; text-align: center; }
 h3 { color: lightGrey; font-family: cambria; }
+
 b { color: darkGrey; }
+
+a:link, a:visited { color: #2E86C1; }
+a:link:hover, a:visited:hover { color: #2E8620; }
+a:link:active, a:visited:active { color: #2E20C1; }
+
+img { vertical-align: middle; }
 
 div { margin: 2%; }
 .column { float: left; width: 46%; }
